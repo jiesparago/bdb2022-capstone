@@ -1,0 +1,30 @@
+{
+  "name": "bdb2022-capstone",
+  "version": "1.0.0",
+  "description": "This capstone project will be an application of what you've learned from the two courses of BDB2022. There are three DApp projects for you to choose from. You only need to select one. It's up to you as well if you'd like to do this capstone project alone, or with a team of up to 4 members only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparklearnedtech/bdb2022-capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparklearnedtech/bdb2022-capstone/issues"
+  },
+  "homepage": "https://github.com/sparklearnedtech/bdb2022-capstone#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.3"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.7",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2"
+  }
+}
