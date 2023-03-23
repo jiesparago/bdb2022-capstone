@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sparklearnedtech/bdb2022-capstone#readme",
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "hardhat": "^2.12.3"
   },
   "dependencies": {
