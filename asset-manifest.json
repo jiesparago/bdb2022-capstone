@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/jiesparago/bdb2022-capstone.git/static/css/main.ca8faa0f.css",
+    "main.js": "/jiesparago/bdb2022-capstone.git/static/js/main.338f1685.js",
+    "static/media/ethlogo.png": "/jiesparago/bdb2022-capstone.git/static/media/ethlogo.0da9a2243af6b09e9fea.png",
+    "index.html": "/jiesparago/bdb2022-capstone.git/index.html",
+    "main.ca8faa0f.css.map": "/jiesparago/bdb2022-capstone.git/static/css/main.ca8faa0f.css.map",
+    "main.338f1685.js.map": "/jiesparago/bdb2022-capstone.git/static/js/main.338f1685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca8faa0f.css",
+    "static/js/main.338f1685.js"
+  ]
+}
